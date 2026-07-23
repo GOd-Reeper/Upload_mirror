@@ -1,0 +1,2 @@
+export { SeriesCard } from './SeriesCard';
+
